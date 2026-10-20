@@ -19,14 +19,18 @@
 
 ### <img src="https://api.iconify.design/lucide/briefcase.svg?color=%236E7681&height=18" height="18" /> Experience
 
-**Mindray** — *Software Development Intern*  `[2026.6.30] - [2026.10.19]`  
+**Mindray** — *Software Development Intern*  `2026.6.30 - 2026.10.19`  
 - Contributed to both the **AI Gateway** and **AI-Assisted Diagnosis & Treatment** projects.
 - Technologies used: Rust、Python、TypeScript、RabbitMQ、Redis、PostgreSQL、OpenAI API、Nginx、Skywalking.
 
 ### <img src="https://api.iconify.design/lucide/git-pull-request.svg?color=%236E7681&height=18" height="18" /> Open Source
 
-[`apache/inlong`](https://github.com/apache/inlong) &nbsp;<a href="https://github.com/apache/inlong/stargazers"><img src="https://api.iconify.design/lucide/star.svg?color=%236E7681&height=13" height="13" /> 1.5k</a><br>
-Bug fix.
+[`apache/inlong`](https://github.com/apache/inlong) &nbsp;<a href="https://github.com/apache/inlong/stargazers"><img src="https://api.iconify.design/lucide/star.svg?color=%236E7681&height=13" height="13" /> 1.5k</a>
+
+[`#12101`](https://github.com/apache/inlong/pull/12101) Fix `seperated` → `separated` typos across Manager, SDK and Common<br>
+[`#12103`](https://github.com/apache/inlong/pull/12103) Fix incorrect logic in input validation<br>
+[`#12105`](https://github.com/apache/inlong/pull/12105) Fix logical deletion of associated data for data flow groups<br>
+[`#12107`](https://github.com/apache/inlong/pull/12107) Add MQ cluster checks *(open)*
 
 ### <img src="https://api.iconify.design/lucide/target.svg?color=%236E7681&height=18" height="18" /> Focus
 
