@@ -19,14 +19,13 @@
 
 ### <img src="https://api.iconify.design/lucide/briefcase.svg?color=%236E7681&height=18" height="18" /> Experience
 
-**Mindray** — *Software Development Intern*  
-`[2026.6.30] - [2026.10.19]`  
+**Mindray** — *Software Development Intern*  `[2026.6.30] - [2026.10.19]`  
 - Contributed to both the **AI Gateway** and **AI-Assisted Diagnosis & Treatment** projects.
 - Technologies used: Rust、Python、TypeScript、RabbitMQ、Redis、PostgreSQL、OpenAI API、Nginx、Skywalking.
 
 ### <img src="https://api.iconify.design/lucide/git-pull-request.svg?color=%236E7681&height=18" height="18" /> Open Source
 
-**[Apache InLong](https://github.com/apache/inlong)** ⭐ [1.5k]  
+[`apache/inlong`](https://github.com/apache/inlong) &nbsp;<a href="https://github.com/apache/inlong/stargazers"><img src="https://api.iconify.design/lucide/star.svg?color=%236E7681&height=13" height="13" /> 1.5k</a><br>
 Bug fix.
 
 ### <img src="https://api.iconify.design/lucide/target.svg?color=%236E7681&height=18" height="18" /> Focus
@@ -48,7 +47,7 @@ Bug fix.
 
 ### <img src="https://api.iconify.design/lucide/book-open.svg?color=%236E7681&height=18" height="18" /> Notes
 
-**[Learning Notes Website](https://flowers-59f.github.io)** — My thoughts on algorithms, system design, and tech
+My thoughts on algorithms, system design, and tech — [read the notes](https://flowers-59f.github.io).
 
 ### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%236E7681&height=18" height="18" /> GitHub Stats
 
