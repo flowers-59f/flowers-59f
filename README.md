@@ -2,11 +2,10 @@
 
 # Hi, I'm flowers-59f 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Agent+Developer;Lifelong+Learner" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
-[![Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=google-chrome&logoColor=white)](your-website)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:2465604425@qq.com)
+[![Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=google-chrome&logoColor=white)](https://flowers-59f.github.io)
 
 </div>
 
@@ -14,9 +13,9 @@
 
 ### 🎓 Education
 
-**M.S. in [Major]** | University of Electronic Science and Technology of China | *[2025 - 2028]*
+**M.S. in [Electronic Information]** | University of Electronic Science and Technology of China | *2025 - 2028*
 
-**B.S. in [Major]** | Southwest Jiaotong University | *[2021 - 2025]*
+**B.S. in [Communication Engineering]** | Southwest Jiaotong University | *2021 - 2025*
 
 ### 💼 Experience
 
@@ -55,9 +54,9 @@ Bug fix.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flowers-59f&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flowers-59f&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2E9EF7&icon_color=2E9EF7&text_color=3D3D3D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flowers-59f&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flowers-59f&layout=compact&hide_border=true&bg_color=ffffff&title_color=2E9EF7&text_color=3D3D3D)
 
 </div>
 
@@ -65,8 +64,8 @@ Bug fix.
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/flowers-59f/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=flowers-59f&label=Profile%20Views&color=2E9EF7&style=flat)
 
-*"Code is like humor. When you have to explain it, it's bad."*
+*"Remember always to love your life."*
 
 </div>
