@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm flowers-59f 👋
+# <img src="https://api.iconify.design/lucide/flower-2.svg?color=%232E9EF7&height=30" height="30" /> Hi, I'm flowers-59f
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Agent+Developer;Lifelong+Learner" alt="Typing SVG" />
 
@@ -11,31 +11,31 @@
 
 ---
 
-### 🎓 Education
+### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%236E7681&height=18" height="18" /> Education
 
 **M.S. in Electronic Information** | University of Electronic Science and Technology of China | *2025 - 2028*
 
 **B.S. in Communication Engineering** | Southwest Jiaotong University | *2021 - 2025*
 
-### 💼 Experience
+### <img src="https://api.iconify.design/lucide/briefcase.svg?color=%236E7681&height=18" height="18" /> Experience
 
 **Mindray** — *Software Development Intern*  
-📅 `[2026.6.30] - [2026.10.19]`  
+`[2026.6.30] - [2026.10.19]`  
 - Contributed to both the **AI Gateway** and **AI-Assisted Diagnosis & Treatment** projects.
 - Technologies used: Rust、Python、TypeScript、RabbitMQ、Redis、PostgreSQL、OpenAI API、Nginx、Skywalking.
 
-### 🚀 Open Source
+### <img src="https://api.iconify.design/lucide/git-pull-request.svg?color=%236E7681&height=18" height="18" /> Open Source
 
-**[Apache InLong](https://github.com/apache/inlong)** ⭐ [1.5k+]  
+**[Apache InLong](https://github.com/apache/inlong)** ⭐ [1.5k]  
 Bug fix.
 
-### 🔍 Focus
+### <img src="https://api.iconify.design/lucide/target.svg?color=%236E7681&height=18" height="18" /> Focus
 
 ![AI Agent](https://img.shields.io/badge/-AI%20Agent-FF6F61?style=flat-square)
 ![Agent Harness](https://img.shields.io/badge/-Agent%20Harness-00C9A7?style=flat-square)
 ![System Design](https://img.shields.io/badge/-System%20Design-845EC2?style=flat-square)
 
-### 🛠️ Tech Stack
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%236E7681&height=18" height="18" /> Tech Stack
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,11 +46,11 @@ Bug fix.
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### 📝 Notes
+### <img src="https://api.iconify.design/lucide/book-open.svg?color=%236E7681&height=18" height="18" /> Notes
 
-📚 **[Learning Notes Website](https://flowers-59f.github.io)** — My thoughts on algorithms, system design, and tech
+**[Learning Notes Website](https://flowers-59f.github.io)** — My thoughts on algorithms, system design, and tech
 
-### 📊 GitHub Stats
+### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%236E7681&height=18" height="18" /> GitHub Stats
 
 <div align="center">
 
@@ -64,8 +64,10 @@ Bug fix.
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/flowers-59f?style=flat-square&color=2E9EF7)
+<img src="https://api.iconify.design/lucide/quote.svg?color=%23C7DCF0&height=36" height="36" />
 
-*"Remember always to love your life."*
+### <em>“Remember always to love your life.”</em>
+
+<sub>flowers-59f</sub>
 
 </div>
