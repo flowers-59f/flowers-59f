@@ -13,13 +13,13 @@
 
 ### 🎓 Education
 
-**M.S. in [Electronic Information]** | University of Electronic Science and Technology of China | *2025 - 2028*
+**M.S. in Electronic Information** | University of Electronic Science and Technology of China | *2025 - 2028*
 
-**B.S. in [Communication Engineering]** | Southwest Jiaotong University | *2021 - 2025*
+**B.S. in Communication Engineering** | Southwest Jiaotong University | *2021 - 2025*
 
 ### 💼 Experience
 
-**[Mindray]** — *[Software Development Intern]*  
+**Mindray** — *Software Development Intern*  
 📅 `[2026.6.30] - [2026.10.19]`  
 - Contributed to both the **AI Gateway** and **AI-Assisted Diagnosis & Treatment** projects.
 - Technologies used: Rust、Python、TypeScript、RabbitMQ、Redis、PostgreSQL、OpenAI API、Nginx、Skywalking.
@@ -64,7 +64,7 @@ Bug fix.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=flowers-59f&label=Profile%20Views&color=2E9EF7&style=flat)
+![Followers](https://img.shields.io/github/followers/flowers-59f?style=flat-square&color=2E9EF7)
 
 *"Remember always to love your life."*
 
